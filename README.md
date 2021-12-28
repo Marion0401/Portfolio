@@ -1,6 +1,6 @@
 # Portfolio
 
-## Unity Projetcs 
+## Unity Projects 
 
 September 2021 : Escape Game 
 Work in team in order to discorver Unity
